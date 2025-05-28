@@ -1,4 +1,4 @@
-package com.popcornissues.scribbledash.introscreens.ui.components
+package com.popcornissues.scribbledash.ui.components
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column

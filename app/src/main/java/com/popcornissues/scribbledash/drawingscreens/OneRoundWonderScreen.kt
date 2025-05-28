@@ -34,8 +34,8 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import com.popcornissues.scribbledash.introscreens.components.CloseButton
-import com.popcornissues.scribbledash.introscreens.components.DrawingCanvas
+import com.popcornissues.scribbledash.ui.components.CloseButton
+import com.popcornissues.scribbledash.ui.components.DrawingCanvas
 import com.popcornissues.scribbledash.R
 import com.popcornissues.scribbledash.ui.components.BrightTextButton
 import com.popcornissues.scribbledash.ui.components.Gridlines
